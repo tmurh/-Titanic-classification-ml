@@ -6,7 +6,7 @@ Empleando modelos de aprendizaje supervisado como KNN/SVM/Random Forest para la 
 
 -K nearest neighbor\
 -Support Vector Machine\
--Random Forest\
+-Random Forest
 
 **Librerias utilizadas :**
 
