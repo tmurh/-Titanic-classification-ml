@@ -1,4 +1,4 @@
-# -Titanic-classification-ml
+# Titanic-classification-ml
 
 Empleando modelos de aprendizaje supervisado como KNN/SVM/Random Forest para la prediccion de sobrevivientes en el Titanic.
 
